@@ -1,5 +1,5 @@
 ﻿
-	package com.powerflasher.SampleApp {
+	package {
 		
 		import flash.events.NetStatusEvent;
 		import flash.media.Video;
